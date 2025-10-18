@@ -10,7 +10,7 @@ This is my journal of the design and building process of **PSN Platinum**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/669).
 
 
-## 10/18/2025 - Project start  
+## 10/18/2025 12 PM - Project start  
 
 Hello there! This is my first journal entry to my new project :)
 
@@ -30,4 +30,19 @@ Well, guess I'm gonna find out real soon.!
 [Screenshot_20251018_123536_Chrome.jpg](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--28cb3598ffff9d303db8a9f7658552accbe4544f/Screenshot_20251018_123536_Chrome.jpg)
 ![Screenshot_20251018_123513_Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--9ac6aa4664dc1931b4a7e1924424744dfd83b56f/Screenshot_20251018_123513_Chrome.jpg)
   
+
+## 10/18/2025 2 PM - Project specifications  
+
+For this project, I'm gonna make a new version of the 3D model with a base to contain the following:
+- Raspberry Pi Zero 2W (w/ headers;
+- A touchscreen that connects to the headers;
+- Cable rerouting for power
+
+For the 3D model I'm going to use TinkerCAD since it seems super user friendly especially for a beginner such as me, and ngl I thought it was harder.
+
+WHAT NEXT:
+- Finish the 3D Model![Screenshot_20251018_141632_Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--5e93db07d0a4dfbcc0ab7fa96790a8d02fc4f417/Screenshot_20251018_141632_Chrome.jpg)
+
+- Get the free stickers :D
+- SHIP!  
 
