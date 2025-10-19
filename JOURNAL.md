@@ -46,7 +46,7 @@ WHAT NEXT:
 - Get the free stickers :D
 - SHIP!  
 
-## 10/19/2025 - Finished 3D Model  
+## 10/19/2025 - Finished the 3D Model  
 
 Today I finished the 3D Model! (thanks cosmobona56 for the screen measurements <3)
 I think it turned out really great, especially considering it was my first time modeling anything. Here are some pictures of it, LMK what you think!
