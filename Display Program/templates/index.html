@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content="180" />
+    <title>PSN Trophies - LN_Lenost</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>PSN Trophies per {{ online_id }}</h1>
+      
+      {% if data %}
+        <section class="summary">
+          <div class="trophy-stats">
+            <div class="stat-row">
+              <span class="trophy-type bronze">🥉 Bronze:</span>
+              <span class="trophy-count">{{ data.bronze }}</span>
+            </div>
+            <div class="stat-row">
+              <span class="trophy-type silver">🥈 Silver:</span>
+              <span class="trophy-count">{{ data.silver }}</span>
+            </div>
+            <div class="stat-row">
+              <span class="trophy-type gold">🥇 Gold:</span>
+              <span class="trophy-count">{{ data.gold }}</span>
+            </div>
+            <div class="stat-row">
+              <span class="trophy-type platinum">👑 Platinum:</span>
+              <span class="trophy-count">{{ data.platinum }}</span>
+            </div>
+            <div class="stat-row total">
+              <span class="trophy-type">🏆 Totale:</span>
+              <span class="trophy-count">{{ data.total }}</span>
+            </div>
+          </div>
+          
+          <div class="data-source">
+            <p class="refresh-timer">🔄 Prossimo aggiornamento tra: <span id="countdown">3:00</span></p>
+          </div>
+        </section>
+      {% endif %}
+
+      <script>
+        // Auto-refresh countdown timer
+        let timeLeft = 180; // 3 minutes in seconds
+        const countdownElement = document.getElementById('countdown');
+        
+        function updateCountdown() {
+          const minutes = Math.floor(timeLeft / 60);
+          const seconds = timeLeft % 60;
+          countdownElement.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+          
+          if (timeLeft <= 0) {
+            countdownElement.textContent = "Aggiornamento...";
+            location.reload();
+          } else {
+            timeLeft--;
+          }
+        }
+        
+        // Update countdown every second
+        setInterval(updateCountdown, 1000);
+        updateCountdown(); // Initial call
+      </script>
+
+      <footer>
+      </footer>
+    </main>
+  </body>
+</html>

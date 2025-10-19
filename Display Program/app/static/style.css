@@ -1,0 +1,38 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 0; background: #0f172a; color: #e2e8f0; }
+.container { max-width: 900px; margin: 0 auto; padding: 24px; }
+h1 { margin: 0 0 16px; }
+.search-form { display: flex; gap: 8px; align-items: end; margin-bottom: 16px; }
+.search-form label { display: block; font-size: 0.9rem; color: #cbd5e1; }
+.search-form input { padding: 8px; border-radius: 6px; border: 1px solid #334155; background: #0b1220; color: #e2e8f0; }
+.search-form button { padding: 10px 14px; border: none; border-radius: 6px; background: #3b82f6; color: white; cursor: pointer; }
+.search-form button:hover { background: #2563eb; }
+.flash { list-style: none; padding: 0; margin: 8px 0; }
+.flash li { padding: 8px 10px; border-radius: 6px; }
+.flash li.error { background: #7f1d1d; }
+
+.summary { margin: 24px 0; }
+.cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.card { background: #111827; border: 1px solid #1f2937; border-radius: 10px; padding: 12px; text-align: center; }
+.card span { display: block; font-size: 1.6rem; margin-top: 6px; }
+.card.bronze { color: #cd7f32; }
+.card.silver { color: #c0c0c0; }
+.card.gold { color: #ffd700; }
+.card.platinum { color: #b48cf0; }
+.meta { color: #cbd5e1; }
+
+.trophy-stats { margin: 16px 0; }
+.stat-row { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; border-bottom: 1px solid #1f2937; }
+.stat-row.total { border-bottom: none; font-weight: bold; margin-top: 8px; }
+.trophy-type { font-size: 1.1rem; }
+.trophy-count { font-size: 1.2rem; font-weight: bold; }
+.additional-stats { margin: 16px 0; color: #cbd5e1; }
+.data-source { margin-top: 16px; font-size: 0.9rem; }
+.real-data { color: #10b981; }
+.demo-data { color: #f59e0b; }
+.refresh-timer { color: #6b7280; margin-top: 8px; }
+.refresh-timer #countdown { color: #3b82f6; font-weight: bold; }
+
+.chart { background: #0b1220; border: 1px solid #1f2937; border-radius: 10px; padding: 16px; }
+
+footer { margin-top: 24px; color: #94a3b8; font-size: 0.9rem; }
