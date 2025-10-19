@@ -46,3 +46,17 @@ WHAT NEXT:
 - Get the free stickers :D
 - SHIP!  
 
+## 10/19/2025 - Finished 3D Model  
+
+Today I finished the 3D Model! (thanks cosmobona56 for the screen measurements <3)
+I think it turned out really great, especially considering it was my first time modeling anything. Here are some pictures of it, LMK what you think!
+
+WHAT NEXT:
+- List down the parts
+- Get the free stickers
+- SHIP!
+
+![below.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--230efddfe32db9d732c651201303855f2270b678/below.png)
+![front.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--f28244fefb547b14f9acca0834bc8f7dec9e4352/front.png)
+  
+
