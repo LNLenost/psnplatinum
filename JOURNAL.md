@@ -46,7 +46,7 @@ WHAT NEXT:
 - Get the free stickers :D
 - SHIP!  
 
-## 10/19/2025 - Finished the 3D Model  
+## 10/19/2025 4:39 PM - Finished the 3D Model  
 
 Today I finished the 3D Model! (thanks cosmobona56 for the screen measurements <3)
 I think it turned out really great, especially considering it was my first time modeling anything. Here are some pictures of it, LMK what you think!
@@ -58,5 +58,20 @@ WHAT NEXT:
 
 ![below.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--230efddfe32db9d732c651201303855f2270b678/below.png)
 ![front.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--f28244fefb547b14f9acca0834bc8f7dec9e4352/front.png)
+  
+
+## 10/19/2025 4:54 PM - Parts list  
+
+Here's everything I need for the project to come alive:
+- A Raspberry Pi Zero 2W (w/ headers);
+- A screen for the Pi ([this one](https://amzn.to/4nZ9o5X));
+- Any USB cable (we all have tons of those anyways);
+- The 3D printed trophy.
+
+WHAT NEXT:
+- Polish the README
+- SHIP!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--c851224caa885e7b137d6e06a5401dc020ba1ae5/image.png)
   
 
