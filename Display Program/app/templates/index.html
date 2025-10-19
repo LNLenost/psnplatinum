@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="refresh" content="180" />
-    <title>PSN Trophies - LN_Lenost</title>
+    <title>PSN Trophies </title>
     <link rel="stylesheet" href="/static/style.css" />
   </head>
   <body>
@@ -31,13 +31,13 @@
               <span class="trophy-count">{{ data.platinum }}</span>
             </div>
             <div class="stat-row total">
-              <span class="trophy-type">🏆 Totale:</span>
+              <span class="trophy-type">🏆 Total:</span>
               <span class="trophy-count">{{ data.total }}</span>
             </div>
           </div>
           
           <div class="data-source">
-            <p class="refresh-timer">🔄 Prossimo aggiornamento tra: <span id="countdown">3:00</span></p>
+            <p class="refresh-timer">🔄 Next update in: <span id="countdown">3:00</span></p>
           </div>
         </section>
       {% endif %}
@@ -53,7 +53,7 @@
           countdownElement.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
           
           if (timeLeft <= 0) {
-            countdownElement.textContent = "Aggiornamento...";
+            countdownElement.textContent = "Updating...";
             location.reload();
           } else {
             timeLeft--;
